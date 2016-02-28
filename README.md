@@ -16,6 +16,8 @@ Video: https://youtu.be/rO2v399uf4U
 
 A360: http://a360.co/1LHewCn
 
+Thingiverse: http://www.thingiverse.com/thing:1369129
+
 Downloading the part.
 ---------------------
 
